@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=GV-1
+Removed Pin From Net: NetName=VDD Pin=GV-2
+Removed Member From Class: ClassName=MRv2 Member=GV
+Added Member To Class: ClassName=MRv2 Member=Component A4988_1 stepstrick_driver
+Added Room: Name=MRv2

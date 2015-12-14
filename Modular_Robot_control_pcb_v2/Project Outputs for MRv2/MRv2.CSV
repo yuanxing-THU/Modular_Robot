@@ -1,0 +1,18 @@
+"Bill of Material for "
+"On 2015/12/10 at 18:56:10"
+
+"Comment","Pattern","Quantity","Components"
+
+"ASM1117","SOT223","1","AMS1117",""
+"BF","R1608[0603]","1","BF","磁珠"
+"cap smd","C1608[0603]N","9","C1, C3, C4, C5, C6, C7, C8, C9, C10","贴片无极性电容"
+"CRYSTAL_8M","Crystal_C","1","Y1","Crystal_8M"
+"H_P","HDR1X5","1","CAN_9v_P","Header, 5-Pin"
+"Header 4","HDR1X4","2","SWD, USART2","Header, 4-Pin"
+"LED","D1608[0603]","1","D1","蓝色 LED"
+"Motor1","HDR1X4","1","M1","Header, 4-Pin"
+"RES1","1608[0603]","2","R3, R4",""
+"RES1","R1608[0603]","5","R1, R2, R5, R6, R7",""
+"stepstrick_driver","A4988","1","A4988_1",""
+"STM32F103C8T6","LQFP48_N","1","U1","STM32 ARM-based 32-bit MCU Performance Line with 64 kB Flash, 20 kB Internal RAM, -40 to +85癈 Temperature, 48-Pin LQFP, Tray"
+"VP230","VP232","1","VP232",""
