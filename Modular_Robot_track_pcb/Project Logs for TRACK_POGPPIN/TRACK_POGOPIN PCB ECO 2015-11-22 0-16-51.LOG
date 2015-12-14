@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=* Old Footprint=POGPPIN_FIANL New Footprint=POGPPIN_FIANL - duplicate
+Change Component Footprint: Designator=TRACK Old Footprint=TRACK4 - FINAL New Footprint=TRACK4 - FINAL - duplicate
+Added Room: Name=TRACK_POGOPIN

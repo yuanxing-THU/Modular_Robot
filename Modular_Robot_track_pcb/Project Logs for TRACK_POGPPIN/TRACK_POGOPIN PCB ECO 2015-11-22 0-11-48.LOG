@@ -1,0 +1,5 @@
+Added Component: Designator=*(POGPPIN_FIANL)
+Added Component: Designator=TRACK(TRACK4 - FINAL)
+Added Member To Class: ClassName=TRACK_POGOPIN Member=Component * POGOPIN
+Added Member To Class: ClassName=TRACK_POGOPIN Member=Component TRACK
+Added Room: Name=TRACK_POGOPIN
